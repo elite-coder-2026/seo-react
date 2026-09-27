@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "slug": "high-throughput-backend",
+    "title": "High-Throughput Distributed Engine",
+    "summary": "Low-latench asynchromous processing pipeline build with DB-API execution.",
+    "description": "Enginerred a low-overhead coordinator-worker system raw TCP sockets and direct postgresql interfaces",
+    "repoUrl": "https://github.com/...",
+    "previewImage": "/images/project1.jpg"
+  },
+  {
+      "id": "2",
+      "slug": "custom-react-architecture",
+      "title": "Decoupled React State Framework",
+      "summary": "Custom React architecture utilizing custom hooks and styled-components.",
+      "description": "Built a reusable frontend layout system featuring dynamic routing and tokenized styling.",
+      "repoUrl": "https://github.com/your-handle/another-repo",
+      "previewImage": "/images/project2.png"
+    }
+]
